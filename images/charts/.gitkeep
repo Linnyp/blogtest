@@ -1,0 +1,9 @@
+# Data Visualizations and Charts
+
+This folder contains charts, graphs, and data visualizations.
+
+Recommended specifications:
+- Format: SVG for scalable charts, PNG for complex visualizations
+- Size: Responsive design friendly
+- File size: Under 300KB
+- Naming: data-type-chart-description.extension

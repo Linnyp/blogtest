@@ -1,0 +1,9 @@
+# Hero Images
+
+This folder contains large featured images for blog posts.
+
+Recommended specifications:
+- Format: WebP or JPG
+- Size: 1200x630px (optimal for social sharing)
+- File size: Under 200KB
+- Naming: descriptive-kebab-case.extension
