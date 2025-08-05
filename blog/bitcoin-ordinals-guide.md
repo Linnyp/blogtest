@@ -6,7 +6,7 @@ date: "2024-01-15"
 readTime: "12 min read"
 category: "Guides"
 tags: ["Bitcoin", "Ordinals", "NFT", "Inscriptions"]
-heroImage: "https://raw.githubusercontent.com/adapatandinnovate/ordx-blog-content/main/images/heroes/bitcoin-ordinals-hero.jpg"
+heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/evmbannerpup.png"
 featured: true
 difficulty: "Intermediate"
 seoKeywords: ["bitcoin ordinals", "ordinal inscriptions", "bitcoin nft"]
@@ -32,7 +32,7 @@ Ordinals are a way to inscribe arbitrary data onto individual satoshis, the smal
 - **Scarce**: Limited by Bitcoin's block space and mining schedule
 - **Decentralized**: No reliance on external servers or IPFS
 
-![Ordinals Explanation](https://raw.githubusercontent.com/adapatandinnovate/ordx-blog-content/main/images/charts/ordinals-explanation.png)
+![Ordinals Explanation](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/evmbannerpup.png)
 
 ## How Ordinals Work
 
