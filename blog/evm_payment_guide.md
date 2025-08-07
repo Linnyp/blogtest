@@ -25,10 +25,6 @@ comments: true
 socialSharing: true
 ---
 
-# EVM Payment Guide
-
-By Proteux
-
 ## INTRODUCTION
 
 We've integrated EVM payments to make minting on Ord-X even more flexible! Follow this step-by-step guide to mint your Bitcoin Ordinals using Ethereum or other EVM-compatible chains with ETH, USDC, or USDT.
