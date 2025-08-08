@@ -57,10 +57,10 @@ By default, Ethereum is selected as the EVM chain. To change this, click the cha
 
 Navigate to the item you want to mint. You'll now see options to pay with ETH, USDC, or USDT. Select your preferred token. If you choose USDC or USDT, you'll need to approve the spending of these tokens. The approval will request 2x the mint price to account for potential price changes, but only the actual mint cost will be spent.
 
-![Choose Payment Token|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/payment-token-selection)
+![Choose Payment Token|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/payment-token-selection.png)
 
 ## Step 6: Mint Your Item
 
 After selecting your token (and approving if necessary), click the "Mint" button. The transaction will be processed on the EVM chain, and your Bitcoin Ordinal will be delivered to your connected Bitcoin wallet once the transaction is confirmed.
 
-![Mint Your Item|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/mint-confirmation)
+![Mint Your Item|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/mint-confirmation.png)
