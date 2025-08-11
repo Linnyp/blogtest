@@ -1,5 +1,5 @@
 ---
-title: "What Are Bitcoin Ordinals & How We Go Here? A Beginner's Guide"
+title: "What Are Bitcoin Ordinals & How We Go Here? Brief History & Overview"
 description: "Learn the what when and why about Bitcoin Ordinals as we take you on a trip down blockchain art memory lane..."
 author: "Linax"
 date: "2025-08-04"
