@@ -1,6 +1,6 @@
 ---
 title: "What Are Bitcoin Ordinals & How We Go Here? A Beginner's Guide"
-description: "Learn the what when and why about Bitcoin Ordinals as we take you on a trip down crypto ar memory lane..."
+description: "Learn the what when and why about Bitcoin Ordinals as we take you on a trip down blockchain art memory lane..."
 author: "Linax"
 date: "2025-08-04"
 readTime: "5 min read"
@@ -46,7 +46,7 @@ Welcome to the world of Bitcoin Ordinals — where your digital art isn't just l
 
 ## The Story of Digital Ownership (Or: How We Got Here)
 
-![Bored Ape compared to painting |style:full-width|caption:Found in top right corner of your browser](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/storyofownership.png)
+![Bored Ape compared to painting |style:full-width|caption: Digital VS Traditional art](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/storyofownership.png)
 
 ### The Early Days: Colored Coins and Counterparty
 
@@ -118,7 +118,7 @@ A system designed to number each satoshi (grain of sand). This new simple system
 
 ## The Technology Behind Ordinals (Basically)
 
-![flow chart of Ordinal creation process|style:full-width|caption:Flowchart of Bitcoin Ordinal creation](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/connect-wallet-button.png)
+![flow chart of Ordinal creation process|style:full-width|caption:Flowchart of Bitcoin Ordinal creation](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/inscriptionFlow.png)
 
 ### Understanding Satoshis: Bitcoin's Tiny Building Blocks
 
