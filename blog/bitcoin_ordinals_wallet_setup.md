@@ -3,7 +3,7 @@ title: "Setting up your Bitcoin Ordinals wallet"
 description: "Quick step-by-step guide on setting up an Ordinals compatible wallet."
 author: "Linax"
 date: "2025-08-12"
-category: "Guide"
+category: "Guides"
 tags: ["Bitcoin", "Ordinals", "Tools"]
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/walletselect.jpg"
 featured: false

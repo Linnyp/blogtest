@@ -6,7 +6,7 @@ date: "2025-08-04"
 category: "Guides"
 tags:
   ["evm", "ethereum", "payments", "bitcoin-ordinals", "minting", "usdc", "usdt"]
-heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/evmbannerpup2.png"
+heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/evmbannerpup2.png"
 featured: false
 seoKeywords:
   [
