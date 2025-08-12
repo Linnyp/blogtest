@@ -77,7 +77,3 @@ For mobile wallet click on the download link above
 4\. Set a strong password to maximise on security.
 
 ![Password creation screen|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversepassword.png)
-
-## Step 3: Start Your Journey
-
-Once you have created a new wallet you are ready. Connect to your favorite platforms and start participating in the Bitcoin Ordinals ecosystem!
