@@ -3,13 +3,11 @@ title: "EVM Payment Guide: Mint Bitcoin Ordinals with Ethereum & EVM Chains"
 description: "Learn how to mint Bitcoin Ordinals using EVM payments with ETH, USDC, or USDT on Ord-X platform. Step-by-step guide for cross-chain minting."
 author: "Proteux"
 date: "2025-08-04"
-readTime: "5 min read"
 category: "Guides"
 tags:
   ["evm", "ethereum", "payments", "bitcoin-ordinals", "minting", "usdc", "usdt"]
-heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/evmbannerpup.png"
+heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/evmbannerpup2.png"
 featured: false
-difficulty: "Beginner"
 seoKeywords:
   [
     "evm payments",
@@ -19,9 +17,6 @@ seoKeywords:
     "cross-chain minting",
   ]
 lastUpdated: "2025-08-04"
-tableOfContents: true
-newsletter: true
-comments: true
 socialSharing: true
 ---
 

@@ -3,12 +3,10 @@ title: "What Are Bitcoin Ordinals & How We Go Here? Brief History & Overview"
 description: "Learn the what when and why about Bitcoin Ordinals as we take you on a trip down blockchain art memory lane..."
 author: "Linax"
 date: "2025-08-04"
-readTime: "5 min read"
 category: "Getting Started"
 tags: ["Bitcoin", "Ordinals", "Ethereum", "NFT"]
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/bitcoincabinet.jpg"
 featured: false
-difficulty: "Beginner"
 seoKeywords:
   [
     "evm payments",
@@ -18,9 +16,6 @@ seoKeywords:
     "cross-chain minting",
   ]
 lastUpdated: "2025-08-04"
-tableOfContents: true
-newsletter: true
-comments: true
 socialSharing: true
 ---
 

@@ -3,12 +3,10 @@ title: "Setting up your Bitcoin Ordinals wallet"
 description: "Quick step-by-step guide on setting up an Ordinals compatible wallet."
 author: "Linax"
 date: "2025-08-12"
-readTime: "5 min read"
 category: "Guide"
 tags: ["Bitcoin", "Ordinals", "Tools"]
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/walletselect.jpg"
 featured: false
-difficulty: "Beginner"
 seoKeywords:
   [
     "evm payments",
@@ -18,9 +16,6 @@ seoKeywords:
     "cross-chain minting",
   ]
 lastUpdated: "2025-08-12"
-tableOfContents: true
-newsletter: true
-comments: true
 socialSharing: true
 ---
 
@@ -77,3 +72,5 @@ For mobile wallet click on the download link above
 4\. Set a strong password to maximise on security.
 
 ![Password creation screen|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversepassword.png)
+
+## Completed!
