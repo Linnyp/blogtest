@@ -44,42 +44,40 @@ Follow along with any Bitcoin Ordinals wallet of your choice, today we'll be usi
 
 ### Desktop
 
-1. For desktop wallet click on the download link above
-
-2. Choose a browser of your choice
+        1. Navigate to download page and select a browser of your choice
 
 ![Desktop browser selection|style:full-width|caption:Available browsers for use](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversedesktop.jpeg)
 
-3. Add to your browser
+        2. Add to your browser
 
 ![Add xverse to browser|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversebrowser.jpeg)
 
 ### Mobile
 
-1. For mobile wallet click on the download link above
+        1. For mobile wallet click on the download link above
 
-2. Select iOS or Android
+        2. Select iOS or Android
 
 ![iOS or Android|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversemobile.jpeg)
 
-3. Download to your device
+        3. Download to your device
 
 ## Step 3: Create New Wallet
 
-1. Launch the wallet on your selected device:
+        1. Launch the wallet on your selected device:
 
-2. Click on 'create a new wallet', check out the terms & services, and accept.
+        2. Click on 'create a new wallet', check out the terms & services, and accept.
 
-![Wallet create and terms of service|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversenew.jpeg)
+![Wallet create and terms of service|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversenew.png)
 
-3. You will get prompted by a 12 word 'seed phrase', make sure to write this down and keep it safe, you'll need it if you ever have to recover your wallet!
+        3. You will get prompted by a 12 word 'seed phrase', make sure to write this down and keep it safe, you'll need it if you ever have to recover your wallet!
 
 ![12 word seed phrase|style:full-width|caption:Keep safe never share](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversephrase.png)
 
-4. Set a strong password to maximise on security.
+        4. Set a strong password to maximise on security.
 
 ![Password creation screen|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversepassword.png)
 
 ## Step 3: Start Your Journey
 
-Once you have created a new wallet you are ready. Connect to your favorite platforms and start participating in the Bitcoin Ordinals ecosystem.
+Once you have created a new wallet you are ready. Connect to your favorite platforms and start participating in the Bitcoin Ordinals ecosystem!
