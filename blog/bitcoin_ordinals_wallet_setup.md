@@ -44,39 +44,45 @@ Follow along with any Bitcoin Ordinals wallet of your choice, today we'll be usi
 
 ### Desktop
 
-1. Navigate to download page and select a browser of your choice
+<ol>
+<li>Navigate to download page and select a browser of your choice
 
-   ![Desktop browser selection|style:full-width|caption:Available browsers for use](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversedesktop.jpeg)
+![Desktop browser selection|style:full-width|caption:Available browsers for use](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversedesktop.jpeg)</li>
 
-2. Add to your browser
+<li>Add to your browser
 
-   ![Add xverse to browser|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversebrowser.jpeg)
+![Add xverse to browser|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversebrowser.jpeg)</li>
+</ol>
 
 ### Mobile
 
-1. For mobile wallet click on the download link above
+<ol>
+<li>For mobile wallet click on the download link above</li>
 
-2. Select iOS or Android
+<li>Select iOS or Android
 
-   ![iOS or Android|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversemobile.jpeg)
+![iOS or Android|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversemobile.jpeg)</li>
 
-3. Download to your device
+<li>Download to your device</li>
+</ol>
 
 ## Step 3: Create New Wallet
 
-1. Launch the wallet on your selected device:
+<ol>
+<li>Launch the wallet on your selected device:</li>
 
-2. Click on 'create a new wallet', check out the terms & services, and accept.
+<li>Click on 'create a new wallet', check out the terms & services, and accept.
 
-   ![Wallet create and terms of service|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversenew.png)
+![Wallet create and terms of service|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversenew.png)</li>
 
-3. You will get prompted by a 12 word 'seed phrase', make sure to write this down and keep it safe, you'll need it if you ever have to recover your wallet!
+<li>You will get prompted by a 12 word 'seed phrase', make sure to write this down and keep it safe, you'll need it if you ever have to recover your wallet!
 
-   ![12 word seed phrase|style:full-width|caption:Keep safe never share](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversephrase.png)
+![12 word seed phrase|style:full-width|caption:Keep safe never share](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversephrase.png)</li>
 
-4. Set a strong password to maximise on security.
+<li>Set a strong password to maximise on security.
 
-   ![Password creation screen|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversepassword.png)
+![Password creation screen|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/xversepassword.png)</li>
+</ol>
 
 ## Step 3: Start Your Journey
 
