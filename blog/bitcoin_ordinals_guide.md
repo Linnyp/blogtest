@@ -4,7 +4,7 @@ description: "Learn the what when and why about Bitcoin Ordinals as we take you 
 author: "Linax"
 date: "2025-08-04"
 readTime: "5 min read"
-category: "Guides"
+category: "Getting Started"
 tags: ["Bitcoin", "Ordinals", "Ethereum", "NFT"]
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/bitcoincabinet.jpg"
 featured: false
