@@ -4,8 +4,6 @@ description: "Learn how to mint Bitcoin Ordinals using EVM payments with ETH, US
 author: "Proteux"
 date: "2025-08-04"
 category: "Guides"
-tags:
-  ["evm", "ethereum", "payments", "bitcoin-ordinals", "minting", "usdc", "usdt"]
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/evmbannerpup2.png"
 featured: false
 seoKeywords:
