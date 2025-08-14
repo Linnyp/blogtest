@@ -26,7 +26,7 @@ Two of the most common approaches are using **Ord CLI**, a command-line tool for
 
 ## The Traditional Way – Using Ord CLI
 
-![man in front of computer with Ord Cli|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/ordhard.png)
+![man in front of computer with Ord Cli|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/ordhard.png)
 
 ### What Is Ord CLI?
 
@@ -57,7 +57,7 @@ For developers and advanced blockchain users, these hurdles may be part of the a
 
 ## The Simpler Way – Using Ord-X Launchpad
 
-![man in front of computer with Ord-x platform|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/ordxeasy.png)
+![man in front of computer with Ord-x platform|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/ordxeasy.png)
 
 ### What Is Ord-X?
 
