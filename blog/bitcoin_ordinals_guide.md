@@ -87,6 +87,8 @@ Into the picture steps Casey Rodarmor with a solution to stir up the pot.
 
 ## What Are Bitcoin Ordinals?
 
+![Bored Ape compared to painting |style:full-width|caption: Digital VS Traditional art](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/floatingBitcoin.png)
+
 Unlike traditional NFTs which are like getting a certificate that says "You own this artwork" — but the actual image is stored on someone else's computer server, Bitcoin Ordinals are like having the artwork permanently etched into an indestructible vault that can never be lost, stolen, or destroyed.
 
 Here's the simple definition: Bitcoin Ordinals are digital artifacts that are permanently inscribed directly onto the Bitcoin blockchain. Not linked to it, not referenced by it, but carved into it.
