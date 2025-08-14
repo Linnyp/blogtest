@@ -87,7 +87,7 @@ Into the picture steps Casey Rodarmor with a solution to stir up the pot.
 
 ## What Are Bitcoin Ordinals?
 
-![Bored Ape compared to painting |style:full-width|caption: Digital VS Traditional art](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/floatingBitcoin.png)
+![Man floating space pondering |style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/floatingBitcoin.png)
 
 Unlike traditional NFTs which are like getting a certificate that says "You own this artwork" — but the actual image is stored on someone else's computer server, Bitcoin Ordinals are like having the artwork permanently etched into an indestructible vault that can never be lost, stolen, or destroyed.
 

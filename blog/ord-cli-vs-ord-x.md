@@ -26,6 +26,8 @@ Two of the most common approaches are using **Ord CLI**, a command-line tool for
 
 ## The Traditional Way – Using Ord CLI
 
+![man in front of computer with Ord Cli|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/ordhard.png)
+
 ### What Is Ord CLI?
 
 Ord CLI is an open-source tool maintained by the Ordinals project. It’s powerful, flexible, and gives you direct control over the inscription process. However, it’s also designed with technically proficient users in mind — the type who are comfortable navigating a terminal, running scripts, and managing blockchain nodes.
@@ -54,6 +56,8 @@ While Ord CLI gives you total control, it comes with a learning curve:
 For developers and advanced blockchain users, these hurdles may be part of the appeal. But for many others, the complexity can be a roadblock.
 
 ## The Simpler Way – Using Ord-X Launchpad
+
+![man in front of computer with Ord-x platform|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/screenshots/ordxeasy.png)
 
 ### What Is Ord-X?
 
