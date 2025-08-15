@@ -49,9 +49,9 @@ In order to get started with Ord CLI, you’ll typically need to:
 
 While Ord CLI gives you total control, it comes with a learning curve:
 
--A full Bitcoin node is required, which can be resource-heavy.
--Technical skills are necessary — one wrong command can mean lost funds or failed inscriptions.
--The process is time-intensive, especially if you’re just getting started.
+- A full Bitcoin node is required, which can be resource-heavy.
+- Technical skills are necessary — one wrong command can mean lost funds or failed inscriptions.
+- The process is time-intensive, especially if you’re just getting started.
 
 For developers and advanced blockchain users, these hurdles may be part of the appeal. But for many others, the complexity can be a roadblock.
 
@@ -75,13 +75,15 @@ The process takes minutes instead of days, and you can manage everything without
 
 ### Benefits That Stand Out
 
--No node setup required, which means no waiting days for blockchain sync.
--No coding or command-line commands to memorize.
--Beginner-friendly interface with guided steps.
--Works on most devices and browsers, with no heavy hardware needs.
--Lower margin for error, since the platform handles the technical parts for you.
+- No node setup required, which means no waiting days for blockchain sync.
+- No coding or command-line commands to memorize.
+- Beginner-friendly interface with guided steps.
+- Works on most devices and browsers, with no heavy hardware needs.
+- Lower margin for error, since the platform handles the technical parts for you.
 
 ## Who Should Use Each Method?
+
+![person with computer on left, two people holding wallet on right|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/ordvsordxtech.png)
 
 - **Ord CLI** is a solid choice for those who want to be as close to the blockchain as possible, don’t mind the technical setup, and value full control over the process.
 
@@ -89,6 +91,6 @@ The process takes minutes instead of days, and you can manage everything without
 
 ## TL;DR
 
-Both Ord CLI and Ord-X ultimately do the same thing — inscribe data onto Bitcoin. The key difference lies in how you get there. Ord CLI offers power and control but demands time, patience, and technical skill. Ord-X streamlines the process so you can focus on the creative and collecting side of Ordinals rather than the technical details.
+Both Ord CLI and Ord-X ultimately do the same thing, inscribe data onto Bitcoin. The key difference lies in how you get there. Ord CLI offers power and control but demands time, patience, and technical skill. Ord-X streamlines the process so you can focus on the creative and collecting side of Ordinals rather than the technical details.
 
 If you’ve ever wanted to mint your own Bitcoin NFT without becoming a blockchain engineer, platforms like Ord-X have made that possible in just a few clicks.
