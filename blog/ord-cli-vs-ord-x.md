@@ -4,7 +4,7 @@ description: "A look into the common tools and methods used in inscribing Ordina
 author: "Linax"
 date: "2025-08-14"
 category: "Tools"
-heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/ordorordx.png"
+heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/ordorordx-long.png"
 featured: false
 seoKeywords:
   [
