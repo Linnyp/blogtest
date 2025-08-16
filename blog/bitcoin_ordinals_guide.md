@@ -5,7 +5,7 @@ author: "Linax"
 date: "2025-08-04"
 category: "Getting Started"
 tags: ["Bitcoin", "Ordinals", "Ethereum", "NFT"]
-heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/bitcoincabinet.jpg"
+heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/whatordinals-long.jpg"
 featured: false
 seoKeywords:
   [
