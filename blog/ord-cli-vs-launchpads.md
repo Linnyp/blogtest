@@ -26,8 +26,6 @@ When Ordinals first gained traction, the main way to create these inscriptions w
 
 This article will explore why launchpads aren’t just easier to use, but why they represent the future of Bitcoin NFTs.
 
----
-
 ## Ord CLI: The Technical Foundation
 
 ![man in front of computer with Ord Cli|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/ordhard.png)
@@ -35,8 +33,6 @@ This article will explore why launchpads aren’t just easier to use, but why th
 Ord CLI was the starting point for Ordinals inscriptions and still plays an important role in the ecosystem. It gives users maximum control over the process. If you’re a developer or someone who enjoys working close to the blockchain, it can be exciting to run a full Bitcoin node, enter commands in the terminal, and watch your inscription appear on-chain.
 
 But this control comes at a cost. To even get started, you need to download and sync a full Bitcoin node, which requires hundreds of gigabytes of storage and days of waiting. The interface is purely command-line, meaning you need technical skills to avoid mistakes, and mistakes here can be permanent and costly. There are no guardrails, no undo button, and no built-in way to market or manage a collection. For most creators, these hurdles mean that while Ord CLI is powerful, it’s only practical for a very small group of advanced users.
-
----
 
 ## Launchpads: Platforms for Growth, Not Just Tools
 
@@ -68,8 +64,6 @@ Creators also benefit economically from using launchpads. Instead of spending en
 
 Launchpads are not only solving today’s problems — they are preparing for tomorrow’s opportunities. They are already experimenting with cross-chain standards that allow Ethereum NFTs to move onto Bitcoin. They are using advanced transaction types like PSBT to enable trustless, decentralized trading. They are even exploring Layer 2 solutions that would add scalability and new functionality while keeping Bitcoin’s security intact. This constant innovation means that launchpads are more than just minting platforms — they are building the future infrastructure of Bitcoin digital assets.
 
----
-
 ## Case Studies: Launchpad Impact in Action
 
 ![man in front of computer with Ord-x platform|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/launchpadBenefits.png)
@@ -78,21 +72,9 @@ Several collections show just how much of a difference launchpads make. The **No
 
 These examples illustrate a simple point: inscriptions alone don’t create market success. Launchpads provide the technical, economic, and community tools that make large-scale projects viable and sustainable.
 
----
-
 ## Future of Launchpads: Building the Bitcoin NFT Economy
 
 Launchpads are also shaping the long-term trajectory of Bitcoin Ordinals. They are already exploring advanced applications like on-chain games and interactive media formats. They are preparing for smart contract-like functionality on Bitcoin through innovations like OP_CAT. They are building bridges to other chains and exploring ways to integrate Layer 2 scalability solutions. With institutional investors pouring millions into Ordinals-related projects, it’s clear that launchpads are central to Bitcoin’s future as more than just “digital gold.”
-
----
-
-## Ord CLI vs Launchpads: Different Tools for Different Needs
-
-When comparing Ord CLI and launchpads, it’s important to see them as complementary rather than competing. Ord CLI is perfect for developers, tinkerers, and those who want to experiment with single-piece inscriptions at the protocol level. Launchpads, on the other hand, are built for creators, communities, and collectors who want to launch and scale collections in the real world.
-
-If Ord CLI is the chisel, launchpads like Ord-X are the full workshop, complete with the tools, resources, and support to turn ideas into successful collections.
-
----
 
 ## Conclusion
 
