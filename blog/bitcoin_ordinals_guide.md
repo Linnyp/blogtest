@@ -2,21 +2,13 @@
 title: "What Are Bitcoin Ordinals & How We Go Here? Brief History & Overview"
 description: "Learn the what when and why about Bitcoin Ordinals as we take you on a trip down blockchain art memory lane..."
 author: "Linax"
+authorAvatar: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/avatars/linax.png"
 date: "2025-08-04"
 category: "Getting Started"
-tags: ["Bitcoin", "Ordinals", "Ethereum", "NFT"]
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/whatordinals-long.png"
 featured: false
-seoKeywords:
-  [
-    "evm payments",
-    "mint bitcoin ordinals",
-    "ethereum payments",
-    "usdc usdt",
-    "cross-chain minting",
-  ]
+seoKeywords: ["what are bitcoin ordinals", "bitcoin ordinals history", "ordinals vs nft", "bitcoin digital assets", "ordinals overview"]
 lastUpdated: "2025-08-04"
-socialSharing: true
 ---
 
 ## Introduction

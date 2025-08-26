@@ -3,18 +3,11 @@ title: "Your Post Title Here"
 description: "Brief description for SEO and social sharing (20-160 characters)"
 author: "Author Name"
 date: "YYYY-MM-DD"
-readTime: "X min read"
 category: "Guides"
-tags: ["tag1", "tag2", "tag3"]
 heroImage: "https://raw.githubusercontent.com/your-org/ordx-blog-content/main/images/heroes/your-image.jpg"
 featured: false
-difficulty: "Beginner"
 seoKeywords: ["keyword1", "keyword2", "keyword3"]
 lastUpdated: "YYYY-MM-DD"
-tableOfContents: true
-newsletter: true
-comments: true
-socialSharing: true
 ---
 
 ## Introduction

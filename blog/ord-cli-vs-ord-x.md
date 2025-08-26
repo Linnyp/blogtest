@@ -2,20 +2,20 @@
 title: "Ord CLI vs Ord-X: Inscribing Bitcoin Ordinals the Easy Way"
 description: "A look into the common tools and methods used in inscribing Ordinals."
 author: "Linax"
+authorAvatar: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/avatars/linax.png"
 date: "2025-08-14"
 category: "Tools"
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/ordorordx-long.png"
 featured: false
 seoKeywords:
   [
-    "evm payments",
-    "mint bitcoin ordinals",
-    "ethereum payments",
-    "usdc usdt",
-    "cross-chain minting",
+    "ord cli",
+    "ord-x platform",
+    "bitcoin ordinals inscription",
+    "command line ordinals",
+    "ordinals tools comparison",
   ]
 lastUpdated: "2025-08-14"
-socialSharing: true
 ---
 
 ## Introduction

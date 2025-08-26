@@ -2,21 +2,13 @@
 title: "Setting up your Bitcoin Ordinals wallet"
 description: "Quick step-by-step guide on setting up an Ordinals compatible wallet."
 author: "Linax"
+authorAvatar: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/avatars/linax.png"
 date: "2025-08-12"
 category: "Guides"
-tags: ["Bitcoin", "Ordinals", "Tools"]
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/walletselect.jpg"
 featured: false
-seoKeywords:
-  [
-    "evm payments",
-    "mint bitcoin ordinals",
-    "ethereum payments",
-    "usdc usdt",
-    "cross-chain minting",
-  ]
+seoKeywords: ["bitcoin ordinals wallet", "ordinals wallet setup", "xverse wallet", "unisat wallet", "bitcoin wallet guide"]
 lastUpdated: "2025-08-12"
-socialSharing: true
 ---
 
 ## Introduction
