@@ -4,7 +4,7 @@ description: "Learn a bit and get your feet wet in the wild waters of Bitcoin Ru
 author: "Linax"
 authorAvatar: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/avatars/linax.png"
 date: "2025-08-25"
-category: "Guides"
+category: "Getting Started"
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/runesFontBlk.png"
 featured: false
 seoKeywords:
@@ -22,11 +22,13 @@ lastUpdated: "2025-08-25"
 
 In the world of Bitcoin, innovation doesn’t stop at simple payments. Over the past few years, projects like **Ordinals** have shown us that Bitcoin can host digital collectibles similar to NFTs on Ethereum. But as the ecosystem grows, new systems are emerging to give users even more tools to create and trade digital assets. One of the most promising of these systems is called **Runes**.
 
-Runes make it possible to create **fungible tokens** — interchangeable units like meme coins or community tokens — directly on Bitcoin. This expands Bitcoin’s role beyond Ordinals (which are non-fungible and unique) and brings it into the same conversation as platforms like Ethereum, Solana, and others where fungible tokens have fueled massive ecosystems.
+Runes make it possible to create **fungible tokens** - interchangeable units like meme coins or community tokens - directly on Bitcoin. This expands Bitcoin’s role beyond Ordinals (which are non-fungible and unique) and brings it into the same conversation as platforms like Ethereum, Solana, and others where fungible tokens have fueled massive ecosystems.
 
 If you’ve ever wondered how meme coins or community tokens might work on Bitcoin, or what makes Runes different from Ordinals, this guide breaks it down in simple terms.
 
 ## What Exactly Are Runes?
+
+![Desktop browser selection|style:full-width|caption:Available browsers for use](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/runesWizard.png)
 
 At a high level, **Runes are Bitcoin-native digital tokens**. Unlike Ordinals inscriptions, which are unique and one-of-a-kind like NFTs, runes are interchangeable and identical. This makes them useful for things like meme coins, loyalty points, in-game currencies, or even experimental decentralized finance on Bitcoin.
 
