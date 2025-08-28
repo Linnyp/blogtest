@@ -28,7 +28,7 @@ If you’ve ever wondered how meme coins or community tokens might work on Bitco
 
 ## What Exactly Are Runes?
 
-![Desktop browser selection|style:full-width|caption:Available browsers for use](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/runesWizard.png)
+![Wizard making coins and runestone levitate|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/runesWizard.png)
 
 At a high level, **Runes are Bitcoin-native digital tokens**. Unlike Ordinals inscriptions, which are unique and one-of-a-kind like NFTs, runes are interchangeable and identical. This makes them useful for things like meme coins, loyalty points, in-game currencies, or even experimental decentralized finance on Bitcoin.
 
@@ -37,6 +37,8 @@ Every rune is managed through something called a **Runestone**, which is just th
 Think of runestones as the “spellbooks” that tell the Bitcoin blockchain how runes should exist and move around.
 
 ## How Runes Are Created: Etching
+
+![Wizard etching onto runestone with chisel|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/runeEtching.png)
 
 Runes don’t just appear out of nowhere — they have to be **etched** into existence. Etching is like creating the blueprint for a new token. When someone etches a rune, they decide its permanent properties, such as:
 
@@ -49,6 +51,8 @@ Runes don’t just appear out of nowhere — they have to be **etched** into exi
 Once a rune is etched, these properties are **set in stone** — they can never be changed, even by the original creator.
 
 ## Minting Runes
+
+![Wizard sitting behind coin press with gold coins pouring out|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/mintingRunes.png)
 
 After a rune has been etched, new units can be created through a process called **minting**. Minting is like pressing new coins in a factory.
 
@@ -64,6 +68,8 @@ This system ensures that runes can have scarcity and predictable supply — impo
 
 ## Transferring and Using Runes
 
+![Two wizards transferring back and forth gold coins|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/runesTransfer.png)
+
 Once runes exist, they can be transferred between users, just like Bitcoin. Every transaction involving runes uses a runestone to define how those tokens move from the inputs to the outputs.
 
 Special instructions called **edicts** can tell the blockchain exactly how to allocate runes across different outputs. And if no specific instructions are given, the runes default to going to the first usable output in the transaction.
@@ -71,6 +77,8 @@ Special instructions called **edicts** can tell the blockchain exactly how to al
 Runes can even be **burned** — permanently destroyed — by sending them to an unspendable address (an OP_RETURN). Burning can be used as a supply control tool or for symbolic community gestures.
 
 ## Risks and Edge Cases: Cenotaphs
+
+![Cracked runestone with concerned wizard standing over|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/runesRuins.png)
 
 Not every runestone works perfectly. Sometimes they can be malformed, due to errors or intentional upgrades to the protocol. These broken runestones are called **cenotaphs**.
 
