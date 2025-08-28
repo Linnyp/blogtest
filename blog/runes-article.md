@@ -1,11 +1,11 @@
 ---
 title: "What Are Runes: runestones, etching, and minting"
-description: "Quick step-by-step guide on setting up an Ordinals compatible wallet."
+description: "Learn a bit and get your feet wet in the wild waters of Bitcoin Runes"
 author: "Linax"
 authorAvatar: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/avatars/linax.png"
 date: "2025-08-25"
 category: "Guides"
-heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/bitcoinrunesFontBlk.png"
+heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/runesFontBlk.png"
 featured: false
 seoKeywords:
   [
