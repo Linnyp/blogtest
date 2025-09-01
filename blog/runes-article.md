@@ -1,5 +1,5 @@
 ---
-title: "What Are Runes: runestones, etching, and minting"
+title: "What Are Runes: Runestones, Etching, and Minting"
 description: "Learn a bit and get your feet wet in the wild waters of Bitcoin Runes"
 author: "Linax"
 authorAvatar: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/avatars/linax.png"
@@ -105,6 +105,6 @@ In short, Runes are about **broadening what Bitcoin can do**, beyond store-of-va
 
 Runes bring fungible tokens to Bitcoin in a way that complements the rise of Ordinals. While Ordinals focus on **unique digital artifacts**, Runes make it possible to create and trade **interchangeable tokens** — perfect for meme coins, gaming, and new kinds of community-driven experiments.
 
-Through **runestones**, Bitcoin transactions can etch new runes, mint supply under set rules, and transfer them across the network. And while technical details like edicts, pointers, and cenotaphs keep things precise, the big picture is simple: Runes are Bitcoin’s answer to the question, _“What about tokens?”_
+Through **runestones**, Bitcoin transactions can etch new runes, mint supply under set rules, and transfer them across the network. And while technical details like edicts, pointers, and cenotaphs keep things precise, the big picture is simple: Runes are Bitcoin’s answer to the question, _“Wen Bitcoin native tokens?”_
 
-As the ecosystem develops, Runes may play a key role in expanding Bitcoin from the world’s most secure blockchain into the foundation of an even richer digital economy.
+As the ecosystem develops, Runes may play a role in expanding Bitcoin from the world’s most secure blockchain into the foundation of an even richer digital economy.
