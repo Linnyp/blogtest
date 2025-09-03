@@ -268,24 +268,28 @@ Getting into ordinals isn't rocket science, but it does require a few specific t
 ### Your First Steps (The Learning Path)
 
 **Phase 1: Learning (You Are Here!)**
-• Understanding what ordinals are ✓
-• Learning the basic concepts ✓
-• Getting excited about the possibilities ✓
+
+- Understanding what ordinals are ✓
+- Learning the basic concepts ✓
+- Getting excited about the possibilities ✓
 
 **Phase 2: Setup**
-• Choose an ordinal-compatible wallet
-• Set up your wallet properly
-• Practice with small amounts
+
+- Choose an ordinal-compatible wallet
+- Set up your wallet properly
+- Practice with small amounts
 
 **Phase 3: Exploration**
-• Browse [Ord-X](https://www.ord-x.com/) platform and existing ordinals marketplaces
-• See what's out there
-• Get inspired by what others have created
+
+- Browse [Ord-X](https://www.ord-x.com/) platform and existing ordinals marketplaces
+- See what's out there
+- Get inspired by what others have created
 
 **Phase 4: Action**
-• Buy your first ordinal, or
-• Create (mint) your first inscription
-• Join the community
+
+- Buy your first ordinal, or
+- Create (mint) your first inscription
+- Join the community
 
 ## Conclusion: Your Digital Ownership Journey Starts Now
 
