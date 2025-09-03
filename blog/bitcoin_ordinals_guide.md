@@ -143,7 +143,7 @@ Here's some of the more technical breakdown:
 
 ### File Types Supported:
 
-•-Images (JPEG, PNG, GIF, SVG)
+-Images (JPEG, PNG, GIF, SVG)
 
 - Text documents
 - Audio files
@@ -155,15 +155,15 @@ Here's some of the more technical breakdown:
 This isn't just a cool technical trick — it's a fundamental shift in how digital ownership works:
 
 **Immutability**: Your ordinal can't be changed, deleted, or "rugged" by anyone
+
 **Decentralization**: No single server, company, or entity controls your asset
+
 **Permanence**: As long as Bitcoin exists (which, let's be honest, is probably forever), your ordinal exists
 
 It's like the difference between:
 
 Renting an apartment (traditional NFTs)
-
 or
-
 Owning a piece of land with mineral rights (Bitcoin Ordinals)
 
 ## Types of Bitcoin Ordinals (The Family Tree)
