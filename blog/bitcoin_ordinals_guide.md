@@ -7,7 +7,14 @@ date: "2025-08-04"
 category: "Getting Started"
 heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes/whatordinals-long.png"
 featured: false
-seoKeywords: ["what are bitcoin ordinals", "bitcoin ordinals history", "ordinals vs nft", "bitcoin digital assets", "ordinals overview"]
+seoKeywords:
+  [
+    "what are bitcoin ordinals",
+    "bitcoin ordinals history",
+    "ordinals vs nft",
+    "bitcoin digital assets",
+    "digital collectibles",
+  ]
 lastUpdated: "2025-08-04"
 ---
 
@@ -86,8 +93,9 @@ Unlike traditional NFTs which are like getting a certificate that says "You own 
 Here's the simple definition: Bitcoin Ordinals are digital artifacts that are permanently inscribed directly onto the Bitcoin blockchain. Not linked to it, not referenced by it, but carved into it.
 
 Think of it this way:
-• **Traditional NFTs**: "I own the receipt for that digital art over there"
-• **Bitcoin Ordinals**: "The digital art IS permanently part of my Bitcoin"
+
+- **Traditional NFTs**: "I own the receipt for that digital art over there"
+- **Bitcoin Ordinals**: "The digital art IS permanently part of my Bitcoin"
 
 ### The Magic Behind the Madness
 
@@ -129,25 +137,26 @@ To understand this on a more deeper level takes some technical knowledge of Bitc
 
 Here's some of the more technical breakdown:
 
-• **Witness Data**: Bitcoin transactions have a special section called "witness data" (thanks to the SegWit upgrade)
-• **Data Storage**: Your image, text, or even HTML code gets stuffed into this witness data
-• **Permanent Record**: Once confirmed, this data becomes part of Bitcoin's permanent history
+- **Witness Data**: Bitcoin transactions have a special section called "witness data" (thanks to the SegWit upgrade)
+- **Data Storage**: Your image, text, or even HTML code gets stuffed into this witness data
+- **Permanent Record**: Once confirmed, this data becomes part of Bitcoin's permanent history
 
 ### File Types Supported:
 
-• Images (JPEG, PNG, GIF, SVG)
-• Text documents
-• Audio files
-• HTML/CSS/JavaScript (yes, you can literally run websites on Bitcoin!)
-• Pretty much any digital file under 4MB
+•-Images (JPEG, PNG, GIF, SVG)
+
+- Text documents
+- Audio files
+- HTML/CSS/JavaScript (yes, you can literally run websites on Bitcoin!)
+- Pretty much any digital file under 4MB
 
 ### Why All This Matters?
 
 This isn't just a cool technical trick — it's a fundamental shift in how digital ownership works:
 
 **Immutability**: Your ordinal can't be changed, deleted, or "rugged" by anyone
-
-**Decentralization**: No single server, company, or entity controls your asset **Permanence**: As long as Bitcoin exists (which, let's be honest, is probably forever), your ordinal exists
+**Decentralization**: No single server, company, or entity controls your asset
+**Permanence**: As long as Bitcoin exists (which, let's be honest, is probably forever), your ordinal exists
 
 It's like the difference between:
 
@@ -166,13 +175,15 @@ Owning a piece of land with mineral rights (Bitcoin Ordinals)
 Think of simple inscriptions as the "vanilla ice cream" of ordinals — classic, reliable, and perfect for beginners. These are single-file inscriptions: one image, one audio file, one document.
 
 Perfect for:
-• Profile pictures and avatars
-• Digital art pieces
-• Important documents you want preserved forever
+
+- Profile pictures and avatars
+- Digital art pieces
+- Important documents you want preserved forever
 
 Examples:
-• A beautiful digital painting inscribed as inscription #1000
-• A historic tweet saved for posterity
+
+- A beautiful digital painting inscribed as inscription #1000
+- A historic tweet saved for posterity
 
 ### Recursive Inscriptions: The Strong Stuff
 
@@ -181,18 +192,21 @@ Now we're getting into the heavy artillery. Recursive inscriptions are inscripti
 Simple Explanation: Let's say you inscribe a photo as inscription #500. Later, you inscribe some code as inscription #1000 that says "take that photo from #500 and add a border to it." The code inscription is "recursive" because it references and uses the earlier inscription.
 
 Think of it like this:
-• A simple inscription is like a single LEGO brick
-• A recursive inscription is like instructions that say "take brick #500 and brick #200 and build them into a castle"
+
+- A simple inscription is like a single LEGO brick
+- A recursive inscription is like instructions that say "take brick #500 and brick #200 and build them into a castle"
 
 What makes them powerful:
-• **Building blocks**: New inscriptions can reuse existing ones instead of starting from scratch
-• **Interactive content**: You can create games, apps, or art that responds and changes
-• **Efficiency**: Instead of inscribing the same image 100 times, you inscribe it once and reference it 100 times
+
+- **Building blocks**: New inscriptions can reuse existing ones instead of starting from scratch
+- **Interactive content**: You can create games, apps, or art that responds and changes
+- **Efficiency**: Instead of inscribing the same image 100 times, you inscribe it once and reference it 100 times
 
 Advanced Use Cases:
-• **Interactive Games**: Fully playable games living on Bitcoin
-• **Dynamic Art**: Artworks that change based on other inscriptions
-• **Complex Applications**: Entire web applications running on Bitcoin
+
+- **Interactive Games**: Fully playable games living on Bitcoin
+- **Dynamic Art**: Artworks that change based on other inscriptions
+- **Complex Applications**: Entire web applications running on Bitcoin
 
 Why They Matter: They transform Bitcoin from a static storage medium into a dynamic computing platform. It's like discovering your storage unit isn't just for keeping stuff — it's actually a fully functional workshop.
 
@@ -264,7 +278,7 @@ Getting into ordinals isn't rocket science, but it does require a few specific t
 • Practice with small amounts
 
 **Phase 3: Exploration**
-• Browse existing ordinals marketplaces
+• Browse [Ord-X](https://www.ord-x.com/) platform and existing ordinals marketplaces
 • See what's out there
 • Get inspired by what others have created
 
@@ -277,32 +291,18 @@ Getting into ordinals isn't rocket science, but it does require a few specific t
 
 ### Key Takeaways (TL;DR)
 
-• **Bitcoin Ordinals = True Digital Ownership**: Your digital assets are permanently stored on Bitcoin, not just referenced by it
-• **Stored Directly on Bitcoin Blockchain**: No external servers, no broken links, no rugpulls
-• **Different from Traditional NFTs**: The data IS the asset, not just a pointer to the asset
-• **Growing Ecosystem**: Real utility beyond just collectibles, with gaming, music, documents, and interactive apps
-
-[Start your ordinals journey with Ord-x today and start earning points →] < INSERT CTA PROMPTING CONNECTING WALLET
-
-**OR**
-
-Stay in the Loop
-
-Don't miss out on the latest developments in the ordinals space:
-
-• **Weekly Ordinals Insights**: Curated news and analysis
-• **Platform Updates**: New features and improvements
-• **Community Highlights**: Showcasing amazing community creations
-
-[Join Our Educational Newsletter →] INSERT LEAD MAGNET OFFERING FREE NEWSLETTER
+- **Bitcoin Ordinals = True Digital Ownership**: Your digital assets are permanently stored on Bitcoin, not just referenced by it
+- **Stored Directly on Bitcoin Blockchain**: No external servers, no broken links, no rugpulls
+- **Different from Traditional NFTs**: The data IS the asset, not just a pointer to the asset
+- **Growing Ecosystem**: Real utility beyond just collectibles, with gaming, music, documents, and interactive apps
 
 ## Additional Resources
 
 ### Essential Terms Glossary
 
-**Bitcoin**: The first and most secure cryptocurrency and blockchain network
-
 **Satoshi**: The smallest unit of Bitcoin (1 Bitcoin = 100,000,000 satoshis)
+
+**Rare Sats**: Satoshis with special properties or inscriptions
 
 **Ordinals Protocol**: The system for tracking and inscribing individual satoshis
 
@@ -314,27 +314,15 @@ Don't miss out on the latest developments in the ordinals space:
 
 **Witness Data**: Part of Bitcoin transactions where inscription data is stored
 
-**Rare Sats**: Satoshis with special properties or inscriptions
-
-### Recommended Wallets
-
-**Xverse**: Mobile-friendly with ordinals support
-
-**Unisat**: Web-based ordinals wallet
-
-**Sparrow Wallet**: Advanced desktop wallet with ordinals features
-
 ### Community Hubs
 
-**Ordinals Discord**: Active community discussions
+**Ordinals Discord**: Join Ord-X [discord](https://discord.gg/VR8TSWNSmz) for active community discussions!
 
 **Bitcoin Twitter**: Follow #Ordinals hashtag
 
 **Ordinals Reddit**: Questions and discussions
 
 **Ord.io**: Ordinals explorer and marketplace
-
-Remember: The ordinals ecosystem is still young and evolving rapidly. Stay curious, start small, and enjoy the journey into the future of digital ownership!
 
 ---
 

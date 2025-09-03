@@ -9,11 +9,11 @@ heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes
 featured: false
 seoKeywords:
   [
-    "bitcoin ordinals wallet",
-    "ordinals wallet setup",
-    "xverse wallet",
-    "unisat wallet",
-    "bitcoin wallet guide",
+    "rare sats",
+    "Bitcoin rare satoshis",
+    "exotic sats",
+    "rare sats",
+    "Bitcoin Ordinals rare sats",
   ]
 lastUpdated: "2025-08-28"
 ---
@@ -26,15 +26,14 @@ Just like rare coins, stamps, or trading cards in the physical world, some sats 
 
 ## How Ordinals Theory Made Rare Sats Possible
 
-![Morpheus from the matrix faceshot with sunglasses on |style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/bustrain.png)
+![school bus on train tracks|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/bustrain.png)
 
 Ordinals theory gave us a way to look at Bitcoin’s smallest units as individuals rather than indistinguishable parts of a whole. This works by assigning each satoshi a unique number that corresponds to the exact moment and place it was created. In other words, sats are no longer anonymous — they can now be tracked from the block they were mined in all the way through every transaction they ever take part in.
 
 The tracking works through a simple but powerful rule called “first in, first out.” When sats move between wallets, the first ones that went in are the first ones that come out. This ordering system makes it possible to follow a specific sat across time without needing to change Bitcoin itself or issue new tokens. The Bitcoin protocol remains untouched — what Ordinals provides is a way to interpret sats differently, giving them identities we can recognize.
+![train hitting school bus on tracks meme|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/trainbus.png)
 
 ## Numbering and Naming Satoshis
-
-![Wizard making coins and runestone levitate|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/trainbus.png)
 
 Once sats could be tracked, the next step was figuring out how to describe them. Ordinals theory developed several methods for “naming” satoshis so that they could be understood by both machines and humans.
 
@@ -48,7 +47,7 @@ Together, these systems don’t just allow sats to be tracked — they give them
 
 ## From Tracking to Rarity
 
-![Wizard making coins and runestone levitate|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/spidermanPoints.png)
+![group standing in circle dressed as spiderman meme|style:full-width](https://raw.githubusercontent.com/Linnyp/blogtest/main/images/article/spidermanPoints.png)
 
 With sats now individually identifiable, people naturally began thinking about how to categorize them. Since Bitcoin’s code has predictable events built into it — like blocks being mined, difficulty levels adjusting, and halving cycles — certain sats can be tied to these special milestones. This is where the idea of rarity comes in.
 

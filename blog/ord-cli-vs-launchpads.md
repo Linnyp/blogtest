@@ -12,8 +12,8 @@ seoKeywords:
     "ord cli",
     "ord-x platform",
     "bitcoin ordinals inscription",
-    "command line ordinals",
-    "ordinals tools comparison",
+    "Ordinals Launchpad",
+    "Best Ordinals platform",
   ]
 lastUpdated: "2025-08-25"
 ---

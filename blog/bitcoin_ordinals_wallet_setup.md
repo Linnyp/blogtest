@@ -27,9 +27,7 @@ At the heart of every Bitcoin Ordinals toolkit is a wallet that allows you to sa
 First task is choosing a Bitcoin Ordinals wallet provider, there's a growing list to choose from but these are some of our favorites:
 
 [Xverse](https://www.xverse.app/download)
-
 [OKX](https://web3.okx.com/)
-
 [Magic Eden](https://wallet.magiceden.io/)
 
 ## Step 2: Download & Install

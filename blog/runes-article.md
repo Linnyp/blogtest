@@ -9,11 +9,11 @@ heroImage: "https://raw.githubusercontent.com/Linnyp/blogtest/main/images/heroes
 featured: false
 seoKeywords:
   [
-    "bitcoin ordinals wallet",
-    "ordinals wallet setup",
-    "xverse wallet",
-    "unisat wallet",
-    "bitcoin wallet guide",
+    "Bitcoin Runes",
+    "Runes Protocol",
+    "Runestones Bitcoin",
+    "Bitcoin Meme coins",
+    "Etching and minting runes",
   ]
 lastUpdated: "2025-08-25"
 ---
